@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Userr>
+  <User>
+    <Id>1</Id>
+    <name>said h</name>
+    
+    <born>19 May 1925</born>
+        <address>Hebron</address>
+<nationality>american</nationality>
+<tel>06688554477</tel>
+	  <location>20,-120</location>
+
+  </User>
+  
+  <User>
+       <Id>2</Id>
+
+    <name>Mahmood f</name>
+     <born>2 October 1869</born>
+        <address>Ramallah</address>
+	  <location>20,-120</location>
+    <nationality>Palestinen</nationality>
+    <tel>055565566</tel>
+
+
+   
+
+</User>
+  <User>
+      <Id>3</Id>
+
+    <name>Saeed f</name>
+    
+        <address>Nablis</address>
+    <born>20 January 1961</born>
+	<nationality>american</nationality>
+        <tel>0555777664</tel>
+	  <location>20,-120</location>
+  </User>
+</Userr>

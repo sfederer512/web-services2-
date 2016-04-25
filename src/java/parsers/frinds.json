@@ -1,0 +1,32 @@
+{
+        "user": [
+            {
+                "Id": "1",
+                "name": "said h",
+                "born": "19 May 1925",
+                "address": "Hebron",
+                "nationality": "american",
+                "tel": "06688554477",
+               "location": "20,-120"
+            },
+            {
+                "Id": "2",
+                "name": "Mahmood f",
+                "born": "2 October 1869",
+                "address": "Ramallah",
+                "nationality": "Palestinen",
+                "tel": "055565566",
+               "location": "20,-120"
+            },
+            {
+                "Id": "3",
+                "name": "Saeed f",
+                "address": "Nablis",
+                "location": "20,-120",
+                "born": "20 January 1961",
+                "nationality": "american",
+                "tel": "0555777664",
+               "location": "20,-120"
+            }
+        ]
+    }

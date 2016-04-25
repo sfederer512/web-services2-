@@ -1,0 +1,25 @@
+{
+"relations":[
+  {"fiid":"13", "secid":"12"},
+  {"fiid":"13", "secid":"1"},
+  {"fiid":"1", "secid":"2"},
+  {"fiid":"12", "secid":"2"},
+  {"fiid":"1", "secid":"8"},
+  {"fiid":"1", "secid":"9"},
+  {"fiid":"8", "secid":"7"},
+  {"fiid":"8", "secid":"9"},
+  {"fiid":"7", "secid":"9"},
+  {"fiid":"7", "secid":"6"},
+  {"fiid":"9", "secid":"10"},
+  {"fiid":"10", "secid":"11"},
+  {"fiid":"10", "secid":"2"},
+  {"fiid":"10", "secid":"3"},
+ 
+  {"fiid":"11", "secid":"3"},
+  {"fiid":"11", "secid":"5"},
+  {"fiid":"5", "secid":"4"},
+  {"fiid":"4", "secid":"3"}
+  
+  
+]
+}
